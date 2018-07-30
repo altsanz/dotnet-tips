@@ -44,4 +44,8 @@ $ az group list
 
 And look for the one you are interested, then take the id.
 
+Check everything is cool:
+```bash
+$ az webapp browse --name myExpressApp-chrisdias
+```
 
